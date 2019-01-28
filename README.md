@@ -10,3 +10,11 @@ The platform has two kinds of users; Funders and Contributors. Funders create bo
 Part of Gitcoin monetization process is managing projects for companies with consultancy services, for a fee. Since its relaunch in November 2017, it has helped 327 funders reach an audience of 17,977 developers and has facilitated 2,827 complete transactions to 813 unique coders.
 
 The startup also provides an opportunity for other open sources developers and maintainers to get funding for their projects through Gitcoin Grant. Built with EIP1337 standard,  Financiers can make recurring token contributions to their favorite OSS maintainers. Contributors to a project could also be tipped for their contribution using Kudos; an ERC 721 Non Fungible Token that can be used to show appreciation for, and build relationships with contributors.
+
+https://www.forbes.com/sites/curtissilver/2017/09/25/gitcoin-launches-today-pushing-open-source-forward-with-cryptocurrency-bounties/
+http://www.ibtimes.com/how-web-30-will-protect-our-online-identity-2667000
+https://www.ethnews.com/gitcoin-offers-bounties-for-ens-integration-into-dapps
+http://www.ibtimes.com/how-web-30-will-protect-our-online-identity-2667000
+https://media.consensys.net/gitcoin-joins-consensys-announces-pilot-projects-f5a0955de9d6
+https://www.coindesk.com/meet-dapp-market-twist-open-source-winning-developers/
+http://www.builtincolorado.com/2017/10/19/boulder-tech-gitcoin-open-source-software
